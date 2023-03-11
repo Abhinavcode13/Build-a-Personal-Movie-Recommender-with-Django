@@ -6,9 +6,8 @@ A movie recommender system is a type of algorithmic software that provides perso
 
 Movie recommender systems are commonly used by online streaming platforms and movie rental services to suggest movies to users and enhance their user experience.
 
-- collection of csv data file dataset from kaggle which includes tmbdmoviecsv and tmbdcredits.csv
-- jyupter notebook for cleaning the data and making the data format according to our requirements which included libraries as numpy, pandas, skLearn
-- developed the website using streamlit in pycharm IDE
-- 
+- Collection of csv data file dataset from kaggle which includes tmbdmoviecsv and tmbdcredits.csv
+- Jyupter notebook for cleaning the data and making the data format according to our requirements which included libraries as numpy, pandas, skLearn
+- Developed the website using streamlit in pycharm IDE
 
 
